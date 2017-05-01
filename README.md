@@ -18,7 +18,7 @@ Presetup:
 	b) Unziped file will be again the zip file. Change the extension of unzipped file to    .tar
 c) Unzip this file aswell. You will see 5 json files in the unzipped folder
 3) Name the data folder as: yelp_dataset_challenge_round9. This folder should directly have all your Jason files
-4) Put this data folder in the same directory as that of the r code.
+4) Put this data folder in the same directory as that of the r code (App folder).
 5) run file “InstallPackages.R”. This will install all the required packages:
 	install.packages("gdata")
 install.packages("ggplot2")
