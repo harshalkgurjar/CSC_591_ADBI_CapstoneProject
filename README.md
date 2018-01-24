@@ -44,14 +44,14 @@ This will carry out all analysis work and output with top 10 restaurants will be
 
 
 Reference:
-	https://en.wikipedia.org/wiki/Linear_regression
-	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwiynIC8x8rTAhXBOyYKHe7VAM0QFgg7MAM&url=http%3A%2F%2Fcs229.stanford.edu%2Fproj2014%2FYun%2520Xu%2C%2520Xinhui%2520Wu%2C%2520Qinxia%2520Wang%2C%2520Sentiment%2520Analysis%2520of%2520Yelp%27s%2520Ratings%2520Based%2520on%2520Text%2520Reviews.pdf&usg=AFQjCNHCJ83fnobr9CpBPBtziGuFRDAVSw
-	http://minimaxir.com/2014/06/reviewing-reviews/
-	https://en.wikipedia.org/wiki/Generalized_linear_model
-	https://www.slideshare.net/ohassta/critical-thinking
-	http://leonidzhukov.net/hse/2011/seminar/papers/chi09-tie-gilbert.pdf
-	http://www.utdallas.edu/~ryoung/phdseminar/DataMiningComparison-Melody.pdf
-	http://www.criticalthinking.org/pages/defining-critical-thinking/766
+1)	https://en.wikipedia.org/wiki/Linear_regression
+2)	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwiynIC8x8rTAhXBOyYKHe7VAM0QFgg7MAM&url=http%3A%2F%2Fcs229.stanford.edu%2Fproj2014%2FYun%2520Xu%2C%2520Xinhui%2520Wu%2C%2520Qinxia%2520Wang%2C%2520Sentiment%2520Analysis%2520of%2520Yelp%27s%2520Ratings%2520Based%2520on%2520Text%2520Reviews.pdf&usg=AFQjCNHCJ83fnobr9CpBPBtziGuFRDAVSw
+3)	http://minimaxir.com/2014/06/reviewing-reviews/
+4)	https://en.wikipedia.org/wiki/Generalized_linear_model
+5)	https://www.slideshare.net/ohassta/critical-thinking
+6)	http://leonidzhukov.net/hse/2011/seminar/papers/chi09-tie-gilbert.pdf
+7)	http://www.utdallas.edu/~ryoung/phdseminar/DataMiningComparison-Melody.pdf
+8)	http://www.criticalthinking.org/pages/defining-critical-thinking/766
 
 
 
