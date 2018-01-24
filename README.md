@@ -1,8 +1,8 @@
-Recommending Restaurants to investors by Predicting User Ratings and Overall trend of Business growth
-Abstract:
+#Recommending Restaurants to investors by Predicting User Ratings and Overall trend of Business growth
+##Abstract:
 I am proposing a system for investors who want to invest in the restaurants. Investor will be provided with the data suggesting top 10 restaurants in US to invest in. We will be considering different factors for this recommendation system.
 
-Objective :
+##Objective :
 •	Based on Yelp Data Set of User Reviews for Restaurants, we will recommend top 10 restaurants for investment. Business value for this project are:
 o	To provide recommendation on top Business in restaurant
 o	To increase chances of profit for investor.
@@ -11,7 +11,7 @@ o	To increase chances of profit for investor.
 •	Building regression modell and prediction data as well as predicting the trend of business growth.
 •	Predict top 10 restaurants to invest.
 
-Presetup:
+##Presetup:
 1) Download all the source code from the zip folder provided.
 2) Please download and extract Yelp Dataset Challenge data, yelp_dataset_challenge_academic_dataset from the following link: Yelp Data Set
 	a) Extract the zip file download.
@@ -42,7 +42,7 @@ This will carry out integration work
 This will carry out all analysis work and output with top 10 restaurants will be displayed.
 
 
-Reference:
+##Reference:
 	https://en.wikipedia.org/wiki/Linear_regression
 	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwiynIC8x8rTAhXBOyYKHe7VAM0QFgg7MAM&url=http%3A%2F%2Fcs229.stanford.edu%2Fproj2014%2FYun%2520Xu%2C%2520Xinhui%2520Wu%2C%2520Qinxia%2520Wang%2C%2520Sentiment%2520Analysis%2520of%2520Yelp%27s%2520Ratings%2520Based%2520on%2520Text%2520Reviews.pdf&usg=AFQjCNHCJ83fnobr9CpBPBtziGuFRDAVSw
 	http://minimaxir.com/2014/06/reviewing-reviews/
